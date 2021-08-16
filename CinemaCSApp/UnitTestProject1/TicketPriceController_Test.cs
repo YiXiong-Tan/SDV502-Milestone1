@@ -168,7 +168,7 @@ namespace CinemaCSApp_Test
             result = priceController.Family_Pass(pr_quantity_ticket, pr_quantity_adult, pr_quantity_child);
 
             // Log result
-            Console.WriteLine($"Test case - Quantity:{pr_quantity_ticket}, Adult(s):{pr_quantity_adult}, Child(ren):{pr_quantity_child}");
+            Console.WriteLine($"Test case - ticket(s):{pr_quantity_ticket}, Adult(s):{pr_quantity_adult}, Child(ren):{pr_quantity_child}");
             Console.WriteLine($"Expected Result:{expectedResult}, Result:{result}");
 
             // Assert
@@ -176,15 +176,51 @@ namespace CinemaCSApp_Test
         }
 
         [Test]
+        [TestCase(1, "adult", "thursday", 21.5)]
+        [TestCase(2, "adult", "thursday", 43)]
+        [TestCase(1, "adult", "wednesday",-1)]
+        [TestCase(1, "student", "thursday", -1)]
+        [TestCase(1, "child", "thursday", -1)]
         public void Chick_Flick_Thursday(int pr_quantity, string pr_person, string pr_day, decimal expectedResult)
         {
-            
+            decimal result;
+
+            // ARRANGE
+            TicketPriceController priceController = new TicketPriceController();
+
+            // Act
+            result = priceController.Chick_Flick_Thursday(pr_quantity, pr_person, pr_day);
+
+            // Log result
+            Console.WriteLine($"Test case - Quantity:{pr_quantity}, Person(s):{pr_person}, Day:{pr_day}");
+            Console.WriteLine($"Expected Result:{expectedResult}, Result:{result}");
+
+            // Assert
+            Assert.AreEqual(expectedResult, result);
         }
 
         [Test]
-        public void Kids_Careers(int pr_quantity, string pr_day, bool pr_holiday, decimal expectedResult)
+        [TestCase(1, "wednesday", false, 14.5)]
+        [TestCase(2, "wednesday", false, 29)]
+        [TestCase(1, "sunday", false, -1)]
+        [TestCase(1, "wednesday", true, -1)]
+        [TestCase(0, "tuesday", true, -1)]
+        public void Kids_Carers(int pr_quantity, string pr_day, bool pr_holiday, decimal expectedResult)
         {
-            
+            decimal result;
+
+            // ARRANGE
+            TicketPriceController priceController = new TicketPriceController();
+
+            // Act
+            result = priceController.Kids_Careers(pr_quantity, pr_day, pr_holiday);
+
+            // Log result
+            Console.WriteLine($"Test case - Quantity:{pr_quantity}, Day(s):{pr_day}, Holiday:{pr_holiday}");
+            Console.WriteLine($"Expected Result:{expectedResult}, Result:{result}");
+
+            // Assert
+            Assert.AreEqual(expectedResult, result);
         }
 
     }

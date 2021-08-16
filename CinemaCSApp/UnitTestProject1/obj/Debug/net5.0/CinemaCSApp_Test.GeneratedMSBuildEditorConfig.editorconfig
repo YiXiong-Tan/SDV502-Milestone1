@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = CinemaCSApp_Test
+build_property.ProjectDir = C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\UnitTestProject1\

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ian\\Documents\\NMIT course\\Sem 1\\SDV502 Application testing\\Asessments\\Milestone 1\\CinemaCSApp\\CinemaCSApp\\CinemaCSApp.csproj": {}
+    "C:\\Users\\Ian\\Documents\\NMIT course\\Sem 1\\SDV502 Application testing\\Asessments\\Milestone 1\\SDV502-Milestone1\\CinemaCSApp\\CinemaCSApp\\CinemaCSApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ian\\Documents\\NMIT course\\Sem 1\\SDV502 Application testing\\Asessments\\Milestone 1\\CinemaCSApp\\CinemaCSApp\\CinemaCSApp.csproj": {
+    "C:\\Users\\Ian\\Documents\\NMIT course\\Sem 1\\SDV502 Application testing\\Asessments\\Milestone 1\\SDV502-Milestone1\\CinemaCSApp\\CinemaCSApp\\CinemaCSApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ian\\Documents\\NMIT course\\Sem 1\\SDV502 Application testing\\Asessments\\Milestone 1\\CinemaCSApp\\CinemaCSApp\\CinemaCSApp.csproj",
+        "projectUniqueName": "C:\\Users\\Ian\\Documents\\NMIT course\\Sem 1\\SDV502 Application testing\\Asessments\\Milestone 1\\SDV502-Milestone1\\CinemaCSApp\\CinemaCSApp\\CinemaCSApp.csproj",
         "projectName": "CinemaCSApp",
-        "projectPath": "C:\\Users\\Ian\\Documents\\NMIT course\\Sem 1\\SDV502 Application testing\\Asessments\\Milestone 1\\CinemaCSApp\\CinemaCSApp\\CinemaCSApp.csproj",
+        "projectPath": "C:\\Users\\Ian\\Documents\\NMIT course\\Sem 1\\SDV502 Application testing\\Asessments\\Milestone 1\\SDV502-Milestone1\\CinemaCSApp\\CinemaCSApp\\CinemaCSApp.csproj",
         "packagesPath": "C:\\Users\\Ian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ian\\Documents\\NMIT course\\Sem 1\\SDV502 Application testing\\Asessments\\Milestone 1\\CinemaCSApp\\CinemaCSApp\\obj\\",
+        "outputPath": "C:\\Users\\Ian\\Documents\\NMIT course\\Sem 1\\SDV502 Application testing\\Asessments\\Milestone 1\\SDV502-Milestone1\\CinemaCSApp\\CinemaCSApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3mKnT7qviV2jZFHmSomXGaajS5Oe07NCFeMQDYSipHAqdJO2THqymcjzT4A8u2S50Q56A81H7UYlkpGpa47AdA==",
+  "dgSpecHash": "/N8bLHrV0Xm69v2uQ+csMnetHiJkLDXKL0P+9y2MHjccTH66dgYISRXsfK3zU6LZO1COI8EdsoZwr0tnXqwDrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ian\\Documents\\NMIT course\\Sem 1\\SDV502 Application testing\\Asessments\\Milestone 1\\CinemaCSApp\\UnitTestProject1\\CinemaCSApp_Test.csproj",
+  "projectFilePath": "C:\\Users\\Ian\\Documents\\NMIT course\\Sem 1\\SDV502 Application testing\\Asessments\\Milestone 1\\SDV502-Milestone1\\CinemaCSApp\\UnitTestProject1\\CinemaCSApp_Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ian\\.nuget\\packages\\microsoft.codecoverage\\16.10.0\\microsoft.codecoverage.16.10.0.nupkg.sha512",
     "C:\\Users\\Ian\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

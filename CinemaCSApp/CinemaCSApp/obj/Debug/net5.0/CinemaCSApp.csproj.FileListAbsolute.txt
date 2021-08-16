@@ -21,3 +21,14 @@ C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\M
 C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\CinemaCSApp\CinemaCSApp\obj\Debug\net5.0\ref\CinemaCSApp.dll
 C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\CinemaCSApp\CinemaCSApp\obj\Debug\net5.0\CinemaCSApp.pdb
 C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\CinemaCSApp\CinemaCSApp\obj\Debug\net5.0\CinemaCSApp.csproj.AssemblyReference.cache
+C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\CinemaCSApp\bin\Debug\net5.0\CinemaCSApp.deps.json
+C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\CinemaCSApp\bin\Debug\net5.0\CinemaCSApp.dll
+C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\CinemaCSApp\bin\Debug\net5.0\ref\CinemaCSApp.dll
+C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\CinemaCSApp\bin\Debug\net5.0\CinemaCSApp.pdb
+C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\CinemaCSApp\obj\Debug\net5.0\CinemaCSApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\CinemaCSApp\obj\Debug\net5.0\CinemaCSApp.AssemblyInfoInputs.cache
+C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\CinemaCSApp\obj\Debug\net5.0\CinemaCSApp.AssemblyInfo.cs
+C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\CinemaCSApp\obj\Debug\net5.0\CinemaCSApp.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\CinemaCSApp\obj\Debug\net5.0\CinemaCSApp.dll
+C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\CinemaCSApp\obj\Debug\net5.0\ref\CinemaCSApp.dll
+C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\CinemaCSApp\obj\Debug\net5.0\CinemaCSApp.pdb
