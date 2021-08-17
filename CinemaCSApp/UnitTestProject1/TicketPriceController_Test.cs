@@ -200,8 +200,8 @@ namespace CinemaCSApp_Test
         }
 
         [Test]
-        [TestCase(1, "wednesday", false, 14.5)]
-        [TestCase(2, "wednesday", false, 29)]
+        [TestCase(1, "wednesday", false, 12)]
+        [TestCase(2, "wednesday", false, 24)]
         [TestCase(1, "sunday", false, -1)]
         [TestCase(1, "wednesday", true, -1)]
         [TestCase(0, "tuesday", true, -1)]
