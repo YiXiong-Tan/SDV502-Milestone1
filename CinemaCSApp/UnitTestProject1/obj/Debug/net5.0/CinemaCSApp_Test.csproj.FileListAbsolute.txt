@@ -100,15 +100,15 @@ C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\M
 C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\CinemaCSApp\UnitTestProject1\obj\Debug\net5.0\ref\CinemaCSApp_Test.dll
 C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\CinemaCSApp\UnitTestProject1\obj\Debug\net5.0\CinemaCSApp_Test.pdb
 C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\CinemaCSApp\UnitTestProject1\obj\Debug\net5.0\CinemaCSApp_Test.genruntimeconfig.cache
-C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\UnitTestProject1\bin\Debug\net5.0\testhost.exe
 C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\UnitTestProject1\bin\Debug\net5.0\testhost.dll
+C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\UnitTestProject1\bin\Debug\net5.0\testhost.exe
+C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\UnitTestProject1\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\UnitTestProject1\bin\Debug\net5.0\NUnit3.TestAdapter.dll
 C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\UnitTestProject1\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
 C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\UnitTestProject1\bin\Debug\net5.0\nunit.engine.dll
 C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\UnitTestProject1\bin\Debug\net5.0\nunit.engine.api.dll
 C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\UnitTestProject1\bin\Debug\net5.0\nunit.engine.core.dll
 C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\UnitTestProject1\bin\Debug\net5.0\testcentric.engine.metadata.dll
-C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\UnitTestProject1\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\UnitTestProject1\bin\Debug\net5.0\CinemaCSApp_Test.deps.json
 C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\UnitTestProject1\bin\Debug\net5.0\CinemaCSApp_Test.runtimeconfig.json
 C:\Users\Ian\Documents\NMIT course\Sem 1\SDV502 Application testing\Asessments\Milestone 1\SDV502-Milestone1\CinemaCSApp\UnitTestProject1\bin\Debug\net5.0\CinemaCSApp_Test.runtimeconfig.dev.json
