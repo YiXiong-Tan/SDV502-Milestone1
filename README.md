@@ -27,13 +27,29 @@ NUnit is an open-source unit testing framework that enable us to build test case
 
 # Tools Used:
 
+**<u>Programming Language used:-</u>**
+
+C#
+
+
+
+**<u>Test Framework used</u>**
+
+NUnit
+
+
+
 <u>**IDE:-**</u>
 
 Visual Studio 2019 comminity - https://visualstudio.microsoft.com/vs/community/
 
+
+
 <u>**Editing Readme:-**</u>
 
 Typora - https://typora.io/#windows
+
+
 
 <u>**Documentation:-**</u>
 
